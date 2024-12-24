@@ -1,0 +1,9 @@
+First license considered: GPL
+This license stands for general public license, and is very commonly used for free and open source software, and gives users multiple rights, including running, sharing, and modifying the code.
+Most notably, any derivative works must also have the same rights, but I didn't choose this license because it didn't give the user as much freedom as MIT.
+
+Second license considered: LGPL
+This license is like GPL, except it doesn't ensure that derivative works also have the same rights. I didn't choose this license because it didn't give the user as much freedom as MIT.
+
+Third license considered: MIT
+This license gives users almost full freedom, except they must also include the license and a copyright notice. I chose this license because it offered the most freedom of the 3 choices
